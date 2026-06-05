@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Day in the life of an IC!
 ---
