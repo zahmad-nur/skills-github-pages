@@ -1,3 +1,3 @@
 ---
-title: Day in the life of an IC!
+title: Zahra Ahmads CV Blog
 ---
